@@ -1,9 +1,10 @@
 # miniRT
 ## Usage
 Compile using
-> 'make'
-or 
-> 'make miniRT'
+
+> `make` or `make miniRT`
+> 
 Run it
-> './miniRT <scene.rt>'
+
+> `./miniRT <scene.rt>`
 ## Examples
